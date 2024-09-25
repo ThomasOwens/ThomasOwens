@@ -1,3 +1,4 @@
+- 🌐 Rochester, New York, United States
 - 🖥️ https://thomasjowens.com
 - 📧 thomas.j.owens@gmail.com
 - 🏢 Senior Process Improvement Analyst at [IQVIA](https://www.iqvia.com/)
